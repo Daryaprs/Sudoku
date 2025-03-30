@@ -1,0 +1,42 @@
+# Ignore build files
+/build/
+/bin/
+/obj/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+*.bak
+tempCodeRunnerFile
+
+# Ignore compiled files
+*.o
+*.out
+*.exe
+main
+sudoku
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore user-specific files
+*.user
+*.session
+*.workspace
+
+# Ignore backup files
+*~
